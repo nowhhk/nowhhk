@@ -1,5 +1,9 @@
-### Hi there 👋
+### Frontend Developer 🌱
+I’m currently learning  `javascript`, `typescript`, `react`, `react-native` and so on 👩‍💻
 
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 <!--
 **nowhhk/nowhhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
