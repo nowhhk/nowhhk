@@ -1,4 +1,4 @@
-### junior Frontend Developer 🌱
+### Junior Frontend Developer 🌱
 I’m currently learning  `javascript`, `typescript`, `react`, `react-native` and so on 👩‍💻
 
 
