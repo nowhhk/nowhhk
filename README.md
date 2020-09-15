@@ -3,7 +3,7 @@
 - `typescript`
 - `react`
 - `react-native`
-- `Angular` 👩‍💻
+- `angular` 👩‍💻
 
 
 
