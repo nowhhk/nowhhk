@@ -1,10 +1,4 @@
 ### Junior Frontend Developer 🌱
-- `javascript`
-- `typescript`
-- `react`
-- `react-native`
-- `angular` 👩‍💻
-
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnowhhk)](https://hits.seeyoufarm.com)
